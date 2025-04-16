@@ -61,10 +61,10 @@ bash
 npm run dev
 Open http://localhost:5173 in your browser.
 
-📦 Building for Production
+## 📦 Building for Production
 
 bash
 npm run build
 
-📄 License
+## 📄 License
 MIT License. See LICENSE file for details.
